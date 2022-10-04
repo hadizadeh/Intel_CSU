@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"0c94273dfd2016c4cfcb993d0a9c0e30-0.html":"Gabriela Cruz Thompson, the Director of University Research Collaboration in Intel Labs, Intel Corp, visited the CSU campus on August 8, 2022.\n\n￼","archive-august-2022.html":"Archives for August 2022"};
+	var websiteMeta = {"Intel_Kickoff_event_Sep23_2022.html":"Intel kickoff event at CSCC, Sep. 23, 2022:\nL2R: Fathi Amsaad (WSU), Gabriela Cruz Thompson (Intel), Subhashini Ganapathy (WSU), Steven Bibyk (OSU), S","Intel_visit_Sep22_2022.html":"Melinda Murdock (University Relations Manager, Intel Corp.) and Pia Wilson-Body (President of Intel Foundation) visited the CSU campus on September 20","WSU_cleanroom_visit_Sep29_2022.html":"WSU cleanroom labs visit on Sep. 29, 2022.\n￼","archive-september-2022.html":"Archives for September 2022","Intel_visit_Sep8_2022.html":"Gabriela Cruz Thompson, the Director of University Research Collaboration in Intel Labs, Intel Corp, visited the CSU campus on September 8, 2022.\n￼"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
